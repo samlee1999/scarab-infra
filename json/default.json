@@ -73,7 +73,7 @@
       "workload": "leela",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -81,7 +81,7 @@
       "workload": "mcf",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -89,7 +89,7 @@
       "workload": "xz",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -97,7 +97,7 @@
       "workload": "omnetpp",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -105,7 +105,7 @@
       "workload": "deepsjeng",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -113,7 +113,7 @@
       "workload": "xalancbmk",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -121,7 +121,7 @@
       "workload": "x264",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -129,7 +129,7 @@
       "workload": "exchange2",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -137,7 +137,7 @@
       "workload": "perlbench",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -145,7 +145,7 @@
       "workload": "blender",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -153,7 +153,7 @@
       "workload": "nab",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -161,7 +161,7 @@
       "workload": "wrf",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     },
     {
       "suite": "spec2017",
@@ -169,7 +169,7 @@
       "workload": "cam4",
       "cluster_id": null,
       "simulation_type": "memtrace",
-      "warmup": null
+      "warmup": 10000000
     }
   ],
   "_configurations": "scarab configurations to sweep",
